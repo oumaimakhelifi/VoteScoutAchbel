@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VoteScoutAchbel</string>
+    <string name="id_leader"> المعرف الكشفي:</string>
+    <string name="login">الدخول</string>
+    <string name="liste_oiseau">قائمة المترشحين لنواب المؤتمر 23 عن قسم العصافير</string>
+    <string name="liste_dalilet">قائمة المترشحين لنواب المؤتمر 23 عن قسم دليلات</string>
+    <string name="liste_achbel">قائمة المترشحين لنواب المؤتمر 23 عن قسم اشبال</string>
+    <string name="lailakouki">ليلى الكوكي</string>
+    <string name="naoulyahya">نوال يحي</string>
+    <string name="chadli">الشاذلي الكوباكجي</string>
+    <string name="kamelamar">كمال بالحاج عمار</string>
+    <string name="hayetyahyaoui">حياة اليحياوي</string>
+    <string name="hanenayouni">حنان العيوني</string>
+    <string name="ramzirahal">رمزي رحال</string>
+    <string name="samirabakar">سميرة بكار</string>
+    <string name="mounarkik">منى الرقيق</string>
+
+    <string name="mohamedbenbrahem">محمد بن براهم</string>
+    <string name="mahernouili">ماهر نويلي</string>
+    <string name="sabrialoui">صبري الحلاوي</string>
+    <string name="tahariahi">طه الرياحي</string>
+    <string name="jabermouauiya">جابر المعاوي</string>
+    <string name="aminbenaissa">امين بن عيسى</string>
+
+    <string name="nawelhamden">نوال الحمداني</string>
+    <string name="ghofranebenhamed">غفران بن حامد</string>
+    <string name="emnafitouri">امنة الفيتوري</string>
+    <string name="latifamajri">لطيفة الماجري</string>
+    <string name="fathyaayechi">فتحية العياشي</string>
+    <string name="saharayedi">سحر العيادي</string>
+
+    <string name="infotitre">توصيات عامة</string>
+    <string name="information1">* يجب على كل قائد اختيار 5 مترشحين </string>
+    <string name="information2">الرجاء اختيار 5 مترشحين</string>
+    <string name="passe">اوافق</string>
+    <string name="vote">vote</string>
+    <string name="signature">لجنة الادارة الرقمية للكشافة التونسبة جهة بن عروس</string>
+    <string name="signature2">جميع الحقوق محفوظة2021</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "808194513216",
+    "firebase_url": "https://scoutvote-b4aba-default-rtdb.firebaseio.com",
+    "project_id": "scoutvote-b4aba",
+    "storage_bucket": "scoutvote-b4aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808194513216:android:6abc3bc1740825859342a5",
+        "android_client_info": {
+          "package_name": "com.example.votescout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6onk1ua0EX-ZsROjZTXaIR5VcmxGbvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808194513216:android:898e1eeed0c42a899342a5",
+        "android_client_info": {
+          "package_name": "com.example.votescoutachbel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6onk1ua0EX-ZsROjZTXaIR5VcmxGbvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808194513216:android:cf1e47c926f1e22b9342a5",
+        "android_client_info": {
+          "package_name": "com.example.votescoutdalilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6onk1ua0EX-ZsROjZTXaIR5VcmxGbvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808194513216-0bbrutj1hb20rab7h23ua0iq8ol7v9s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".LeaderAchbel">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/liste_achbel"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/red"
+        android:layout_margin="10dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/information1"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:layout_margin="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="end"
+            android:layout_gravity="end">
+            <CheckBox
+                android:id="@+id/checkAchebel4"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="textEnd"
+                android:text="@string/sabrialoui" />
+            <CheckBox
+                android:id="@+id/checkAchbel5"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="textEnd"
+                android:text="@string/jabermouauiya" />
+
+            <CheckBox
+                android:id="@+id/checkAchbel6"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="textEnd"
+                android:text="@string/aminbenaissa" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal">
+            <CheckBox
+                android:id="@+id/checkAchbel"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="@string/mohamedbenbrahem"
+                android:textAlignment="textEnd" />
+
+            <CheckBox
+                android:id="@+id/checkAchbel2"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="textEnd"
+                android:text="@string/mahernouili" />
+
+            <CheckBox
+                android:id="@+id/checkAchbel3"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="textEnd"
+                android:text="@string/tahariahi" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_vote"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/passe"
+        android:onClick="onCheckboxSelectedAchbel" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:layout_marginTop="10dp">
+        <include layout="@layout/signature" />
+    </LinearLayout>
+</LinearLayout>
